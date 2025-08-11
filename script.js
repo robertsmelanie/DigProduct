@@ -1,5 +1,3 @@
-    
-
     const $=sel=>document.querySelector(sel);
                 const stateKey='digital-product-planner-v1';
 
